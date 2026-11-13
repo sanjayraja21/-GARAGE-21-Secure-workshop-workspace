@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+pydantic[email]
+PyJWT>=2.8.0
+pwdlib[argon2]>=0.2.0
